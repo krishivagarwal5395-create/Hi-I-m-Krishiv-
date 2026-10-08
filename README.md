@@ -93,7 +93,8 @@ Wi-Fi Spark makes sharing Wi-Fi information easier by converting network details
 📶 Simple idea.  
 ⚡ Quick experience.  
 🧠 Built to make something annoying easier.
-
+Here's the link!
+https://wi-fi-spark.vercel.app/
 ---
 
 ## 🎓 EduOS
@@ -103,7 +104,8 @@ Wi-Fi Spark makes sharing Wi-Fi information easier by converting network details
 EduOS is an app concept focused on making everyday teaching tasks easier and more organized.
 
 > **Less time dealing with complicated tools. More time teaching.**
-
+Here's the link!
+> https://eduos-ai-71650630939.asia-south1.run.app
 ---
 
 # 🔒 More Projects?
